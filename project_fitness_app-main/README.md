@@ -2,7 +2,10 @@
 
 ![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+### Technology Used:
+### React, JS, MUI
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## How to Start the app
+    1. Go to Project root folder (Here root means whereever your package.json file is present)
+    2. Type "`npm install --legacy-peer-deps`", to install all dependencies
+    3. Type "`npm start`" to start the app in "http://localhost:3000"
