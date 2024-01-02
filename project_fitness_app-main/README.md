@@ -20,7 +20,7 @@
     5. In the configure Project area provide below details, here install command is given as "npm install --legacy-peer-deps" ( as this can be used to install legacy dependencies in future)    
 ![image](https://github.com/nsridatta/project_fitness_app-jsm/assets/10706953/72063cd4-3501-4e93-910b-0404644c63e3)
 
-Finally after successful deployment hit this url in new tab "https://fitnestify.vercel.app/#exercises" and your app will be up 
+Finally after successful deployment hit this url in new tab "https://fitnestify.vercel.app/" and your app will be up 
 
 ### Ligthouse Scores in vercel Prod env:
 ![image](https://github.com/nsridatta/project_fitness_app-jsm/assets/10706953/28151345-badc-49d5-811e-31f13b57c82e)
