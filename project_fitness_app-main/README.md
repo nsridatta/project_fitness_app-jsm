@@ -17,9 +17,10 @@
     2. Now initially you will not have any apps if you have created your account newly in Vercel
     3. Now in your Vercel Dashboard Click on Add New -> Project -> Import from Github Repository
     4. Provide this repo location
-    5. In the configure Project area provide below details, here install command is given as "npm install --legacy-peer-deps" ( as this can be used to install legacy dependencies in future)
-    ![image](https://github.com/nsridatta/project_fitness_app-jsm/assets/10706953/72063cd4-3501-4e93-910b-0404644c63e3)
-    6. Finally after successful deployment hit this url in new tab "https://fitnestify.vercel.app/#exercises" and your app will be up 
+    5. In the configure Project area provide below details, here install command is given as "npm install --legacy-peer-deps" ( as this can be used to install legacy dependencies in future)    
+![image](https://github.com/nsridatta/project_fitness_app-jsm/assets/10706953/72063cd4-3501-4e93-910b-0404644c63e3)
+
+Finally after successful deployment hit this url in new tab "https://fitnestify.vercel.app/#exercises" and your app will be up 
 
 ### Ligthouse Scores in vercel Prod env:
 ![image](https://github.com/nsridatta/project_fitness_app-jsm/assets/10706953/28151345-badc-49d5-811e-31f13b57c82e)
